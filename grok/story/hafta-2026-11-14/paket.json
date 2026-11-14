@@ -340,6 +340,77 @@
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_yaolsaydifutbol_3.png"
  },
  {
+  "gun": "2026-11-15",
+  "sayfa": "onikinciadam",
+  "sira": 1,
+  "dosya": "2026-11-15_onikinciadam_1.png",
+  "cikartma": "anket",
+  "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
+  "secenekler": [
+   "Daha yüksek",
+   "Daha düşük"
+  ],
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_onikinciadam_1.png"
+ },
+ {
+  "gun": "2026-11-15",
+  "sayfa": "onikinciadam",
+  "sira": 2,
+  "dosya": "2026-11-15_onikinciadam_2.png",
+  "cikartma": "yok",
+  "soru": "",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_onikinciadam_2.png"
+ },
+ {
+  "gun": "2026-11-15",
+  "sayfa": "onikinciadam",
+  "sira": 3,
+  "dosya": "2026-11-15_onikinciadam_3.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha iyi 10 numaraydı?",
+  "secenekler": [
+   "Silva",
+   "Talisca"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_onikinciadam_3.png"
+ },
+ {
+  "gun": "2026-11-15",
+  "sayfa": "onikinciadam",
+  "sira": 4,
+  "dosya": "2026-11-15_onikinciadam_4.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_onikinciadam_4.png"
+ },
+ {
+  "gun": "2026-11-15",
+  "sayfa": "onikinciadam",
+  "sira": 5,
+  "dosya": "2026-11-15_onikinciadam_5.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_onikinciadam_5.png"
+ },
+ {
   "gun": "2026-11-16",
   "sayfa": "sahabilim",
   "sira": 1,
@@ -472,6 +543,77 @@
   "dogru": null,
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_yaolsaydifutbol_3.png"
+ },
+ {
+  "gun": "2026-11-16",
+  "sayfa": "onikinciadam",
+  "sira": 1,
+  "dosya": "2026-11-16_onikinciadam_1.png",
+  "cikartma": "anket",
+  "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
+  "secenekler": [
+   "Daha yüksek",
+   "Daha düşük"
+  ],
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_onikinciadam_1.png"
+ },
+ {
+  "gun": "2026-11-16",
+  "sayfa": "onikinciadam",
+  "sira": 2,
+  "dosya": "2026-11-16_onikinciadam_2.png",
+  "cikartma": "yok",
+  "soru": "",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_onikinciadam_2.png"
+ },
+ {
+  "gun": "2026-11-16",
+  "sayfa": "onikinciadam",
+  "sira": 3,
+  "dosya": "2026-11-16_onikinciadam_3.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha iyi golcüydü?",
+  "secenekler": [
+   "Tosun",
+   "Aboubakar"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_onikinciadam_3.png"
+ },
+ {
+  "gun": "2026-11-16",
+  "sayfa": "onikinciadam",
+  "sira": 4,
+  "dosya": "2026-11-16_onikinciadam_4.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_onikinciadam_4.png"
+ },
+ {
+  "gun": "2026-11-16",
+  "sayfa": "onikinciadam",
+  "sira": 5,
+  "dosya": "2026-11-16_onikinciadam_5.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_onikinciadam_5.png"
  },
  {
   "gun": "2026-11-17",
@@ -654,6 +796,63 @@
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_yaolsaydifutbol_4.png"
  },
  {
+  "gun": "2026-11-17",
+  "sayfa": "onikinciadam",
+  "sira": 1,
+  "dosya": "2026-11-17_onikinciadam_1.png",
+  "cikartma": "anket",
+  "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
+  "secenekler": [
+   "Daha yüksek",
+   "Daha düşük"
+  ],
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_onikinciadam_1.png"
+ },
+ {
+  "gun": "2026-11-17",
+  "sayfa": "onikinciadam",
+  "sira": 2,
+  "dosya": "2026-11-17_onikinciadam_2.png",
+  "cikartma": "yok",
+  "soru": "",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_onikinciadam_2.png"
+ },
+ {
+  "gun": "2026-11-17",
+  "sayfa": "onikinciadam",
+  "sira": 3,
+  "dosya": "2026-11-17_onikinciadam_3.png",
+  "cikartma": "anket",
+  "soru": "7 numarayı kim daha iyi taşıdı?",
+  "secenekler": [
+   "Dursun",
+   "Quaresma"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_onikinciadam_3.png"
+ },
+ {
+  "gun": "2026-11-17",
+  "sayfa": "onikinciadam",
+  "sira": 4,
+  "dosya": "2026-11-17_onikinciadam_4.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_onikinciadam_4.png"
+ },
+ {
   "gun": "2026-11-18",
   "sayfa": "sahabilim",
   "sira": 1,
@@ -802,6 +1001,63 @@
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_yaolsaydifutbol_3.png"
  },
  {
+  "gun": "2026-11-18",
+  "sayfa": "onikinciadam",
+  "sira": 1,
+  "dosya": "2026-11-18_onikinciadam_1.png",
+  "cikartma": "anket",
+  "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
+  "secenekler": [
+   "Daha yüksek",
+   "Daha düşük"
+  ],
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_onikinciadam_1.png"
+ },
+ {
+  "gun": "2026-11-18",
+  "sayfa": "onikinciadam",
+  "sira": 2,
+  "dosya": "2026-11-18_onikinciadam_2.png",
+  "cikartma": "yok",
+  "soru": "",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_onikinciadam_2.png"
+ },
+ {
+  "gun": "2026-11-18",
+  "sayfa": "onikinciadam",
+  "sira": 3,
+  "dosya": "2026-11-18_onikinciadam_3.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha iyi forvetti?",
+  "secenekler": [
+   "Kahveci̇",
+   "Mansiz"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_onikinciadam_3.png"
+ },
+ {
+  "gun": "2026-11-18",
+  "sayfa": "onikinciadam",
+  "sira": 4,
+  "dosya": "2026-11-18_onikinciadam_4.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_onikinciadam_4.png"
+ },
+ {
   "gun": "2026-11-19",
   "sayfa": "sahabilim",
   "sira": 1,
@@ -948,6 +1204,75 @@
   "dogru": null,
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_yaolsaydifutbol_3.png"
+ },
+ {
+  "gun": "2026-11-19",
+  "sayfa": "onikinciadam",
+  "sira": 1,
+  "dosya": "2026-11-19_onikinciadam_1.png",
+  "cikartma": "anket",
+  "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
+  "secenekler": [
+   "Daha yüksek",
+   "Daha düşük"
+  ],
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_onikinciadam_1.png"
+ },
+ {
+  "gun": "2026-11-19",
+  "sayfa": "onikinciadam",
+  "sira": 2,
+  "dosya": "2026-11-19_onikinciadam_2.png",
+  "cikartma": "yok",
+  "soru": "",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_onikinciadam_2.png"
+ },
+ {
+  "gun": "2026-11-19",
+  "sayfa": "onikinciadam",
+  "sira": 3,
+  "dosya": "2026-11-19_onikinciadam_3.png",
+  "cikartma": "anket",
+  "soru": "1 numarayı kim daha iyi taşıdı?",
+  "secenekler": [
+   "Córdoba",
+   "Reçber"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_onikinciadam_3.png"
+ },
+ {
+  "gun": "2026-11-19",
+  "sayfa": "onikinciadam",
+  "sira": 4,
+  "dosya": "2026-11-19_onikinciadam_4.png",
+  "cikartma": "soru",
+  "soru": "Ertuğrul'un en unutulmaz golü hangisi?",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_onikinciadam_4.png"
+ },
+ {
+  "gun": "2026-11-19",
+  "sayfa": "onikinciadam",
+  "sira": 5,
+  "dosya": "2026-11-19_onikinciadam_5.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_onikinciadam_5.png"
  },
  {
   "gun": "2026-11-20",
@@ -1115,5 +1440,147 @@
   "dogru": null,
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_yaolsaydifutbol_4.png"
+ },
+ {
+  "gun": "2026-11-20",
+  "sayfa": "onikinciadam",
+  "sira": 1,
+  "dosya": "2026-11-20_onikinciadam_1.png",
+  "cikartma": "anket",
+  "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
+  "secenekler": [
+   "Daha yüksek",
+   "Daha düşük"
+  ],
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_1.png"
+ },
+ {
+  "gun": "2026-11-20",
+  "sayfa": "onikinciadam",
+  "sira": 2,
+  "dosya": "2026-11-20_onikinciadam_2.png",
+  "cikartma": "yok",
+  "soru": "",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_2.png"
+ },
+ {
+  "gun": "2026-11-20",
+  "sayfa": "onikinciadam",
+  "sira": 3,
+  "dosya": "2026-11-20_onikinciadam_3.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha iyi oyun kurucuydu?",
+  "secenekler": [
+   "Delgado",
+   ""
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_3.png"
+ },
+ {
+  "gun": "2026-11-20",
+  "sayfa": "onikinciadam",
+  "sira": 4,
+  "dosya": "2026-11-20_onikinciadam_4.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_4.png"
+ },
+ {
+  "gun": "2026-11-20",
+  "sayfa": "onikinciadam",
+  "sira": 5,
+  "dosya": "2026-11-20_onikinciadam_5.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_5.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "onikinciadam",
+  "sira": 1,
+  "dosya": "2026-11-21_onikinciadam_1.png",
+  "cikartma": "anket",
+  "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
+  "secenekler": [
+   "Daha yüksek",
+   "Daha düşük"
+  ],
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_onikinciadam_1.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "onikinciadam",
+  "sira": 2,
+  "dosya": "2026-11-21_onikinciadam_2.png",
+  "cikartma": "yok",
+  "soru": "",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_onikinciadam_2.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "onikinciadam",
+  "sira": 3,
+  "dosya": "2026-11-21_onikinciadam_3.png",
+  "cikartma": "anket",
+  "soru": "10 numarayı kim daha iyi taşıdı?",
+  "secenekler": [
+   "Yalçin",
+   "Delgado"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_onikinciadam_3.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "onikinciadam",
+  "sira": 4,
+  "dosya": "2026-11-21_onikinciadam_4.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_onikinciadam_4.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "onikinciadam",
+  "sira": 5,
+  "dosya": "2026-11-21_onikinciadam_5.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_onikinciadam_5.png"
  }
 ]
