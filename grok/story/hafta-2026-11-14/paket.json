@@ -19,13 +19,14 @@
   "sayfa": "sahabilim",
   "sira": 2,
   "dosya": "2026-11-14_sahabilim_2.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-14/2026-11-14_sahabilim_2.png"
  },
@@ -60,13 +61,14 @@
   "sayfa": "vexspor",
   "sira": 1,
   "dosya": "2026-11-14_vexspor_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-14/2026-11-14_vexspor_1.png"
  },
@@ -119,13 +121,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 1,
   "dosya": "2026-11-14_yaolsaydifutbol_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncu daha mı uzun?",
   "secenekler": [
    "Daha uzun",
    "Daha kısa"
   ],
-  "dogru": "Daha kısa",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha kısa",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-14/2026-11-14_yaolsaydifutbol_1.png"
  },
@@ -191,13 +194,14 @@
   "sayfa": "sahabilim",
   "sira": 1,
   "dosya": "2026-11-15_sahabilim_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_sahabilim_1.png"
  },
@@ -218,13 +222,14 @@
   "sayfa": "sahabilim",
   "sira": 3,
   "dosya": "2026-11-15_sahabilim_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_sahabilim_3.png"
  },
@@ -290,13 +295,14 @@
   "sayfa": "vexspor",
   "sira": 1,
   "dosya": "2026-11-15_vexspor_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_vexspor_1.png"
  },
@@ -317,13 +323,14 @@
   "sayfa": "vexspor",
   "sira": 3,
   "dosya": "2026-11-15_vexspor_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_vexspor_3.png"
  },
@@ -359,13 +366,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 1,
   "dosya": "2026-11-15_yaolsaydifutbol_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_yaolsaydifutbol_1.png"
  },
@@ -386,13 +394,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 3,
   "dosya": "2026-11-15_yaolsaydifutbol_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-15/2026-11-15_yaolsaydifutbol_3.png"
  },
@@ -443,13 +452,14 @@
   "sayfa": "sahabilim",
   "sira": 1,
   "dosya": "2026-11-16_sahabilim_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_sahabilim_1.png"
  },
@@ -470,13 +480,14 @@
   "sayfa": "sahabilim",
   "sira": 3,
   "dosya": "2026-11-16_sahabilim_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_sahabilim_3.png"
  },
@@ -526,13 +537,14 @@
   "sayfa": "vexspor",
   "sira": 1,
   "dosya": "2026-11-16_vexspor_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_vexspor_1.png"
  },
@@ -553,13 +565,14 @@
   "sayfa": "vexspor",
   "sira": 3,
   "dosya": "2026-11-16_vexspor_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_vexspor_3.png"
  },
@@ -595,13 +608,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 1,
   "dosya": "2026-11-16_yaolsaydifutbol_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_yaolsaydifutbol_1.png"
  },
@@ -622,13 +636,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 3,
   "dosya": "2026-11-16_yaolsaydifutbol_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-16/2026-11-16_yaolsaydifutbol_3.png"
  },
@@ -679,13 +694,14 @@
   "sayfa": "sahabilim",
   "sira": 1,
   "dosya": "2026-11-17_sahabilim_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_sahabilim_1.png"
  },
@@ -706,13 +722,14 @@
   "sayfa": "sahabilim",
   "sira": 3,
   "dosya": "2026-11-17_sahabilim_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_sahabilim_3.png"
  },
@@ -776,13 +793,14 @@
   "sayfa": "vexspor",
   "sira": 1,
   "dosya": "2026-11-17_vexspor_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_vexspor_1.png"
  },
@@ -803,13 +821,14 @@
   "sayfa": "vexspor",
   "sira": 3,
   "dosya": "2026-11-17_vexspor_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_vexspor_3.png"
  },
@@ -862,13 +881,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 1,
   "dosya": "2026-11-17_yaolsaydifutbol_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_yaolsaydifutbol_1.png"
  },
@@ -889,13 +909,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 3,
   "dosya": "2026-11-17_yaolsaydifutbol_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_yaolsaydifutbol_3.png"
  },
@@ -961,13 +982,14 @@
   "sayfa": "sahabilim",
   "sira": 1,
   "dosya": "2026-11-18_sahabilim_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_sahabilim_1.png"
  },
@@ -988,13 +1010,14 @@
   "sayfa": "sahabilim",
   "sira": 3,
   "dosya": "2026-11-18_sahabilim_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_sahabilim_3.png"
  },
@@ -1058,13 +1081,14 @@
   "sayfa": "vexspor",
   "sira": 1,
   "dosya": "2026-11-18_vexspor_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_vexspor_1.png"
  },
@@ -1085,13 +1109,14 @@
   "sayfa": "vexspor",
   "sira": 3,
   "dosya": "2026-11-18_vexspor_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_vexspor_3.png"
  },
@@ -1127,13 +1152,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 1,
   "dosya": "2026-11-18_yaolsaydifutbol_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_yaolsaydifutbol_1.png"
  },
@@ -1154,13 +1180,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 3,
   "dosya": "2026-11-18_yaolsaydifutbol_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_yaolsaydifutbol_3.png"
  },
@@ -1211,13 +1238,14 @@
   "sayfa": "sahabilim",
   "sira": 1,
   "dosya": "2026-11-19_sahabilim_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_sahabilim_1.png"
  },
@@ -1238,13 +1266,14 @@
   "sayfa": "sahabilim",
   "sira": 3,
   "dosya": "2026-11-19_sahabilim_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_sahabilim_3.png"
  },
@@ -1308,13 +1337,14 @@
   "sayfa": "vexspor",
   "sira": 1,
   "dosya": "2026-11-19_vexspor_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_vexspor_1.png"
  },
@@ -1335,13 +1365,14 @@
   "sayfa": "vexspor",
   "sira": 3,
   "dosya": "2026-11-19_vexspor_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_vexspor_3.png"
  },
@@ -1377,13 +1408,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 1,
   "dosya": "2026-11-19_yaolsaydifutbol_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_yaolsaydifutbol_1.png"
  },
@@ -1404,13 +1436,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 3,
   "dosya": "2026-11-19_yaolsaydifutbol_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-19/2026-11-19_yaolsaydifutbol_3.png"
  },
@@ -1461,13 +1494,14 @@
   "sayfa": "sahabilim",
   "sira": 1,
   "dosya": "2026-11-20_sahabilim_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_sahabilim_1.png"
  },
@@ -1488,13 +1522,14 @@
   "sayfa": "sahabilim",
   "sira": 3,
   "dosya": "2026-11-20_sahabilim_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@sahabilim",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_sahabilim_3.png"
  },
@@ -1530,13 +1565,14 @@
   "sayfa": "vexspor",
   "sira": 1,
   "dosya": "2026-11-20_vexspor_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_vexspor_1.png"
  },
@@ -1557,13 +1593,14 @@
   "sayfa": "vexspor",
   "sira": 3,
   "dosya": "2026-11-20_vexspor_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha yüksek",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha yüksek",
   "hesap": "@vexspor",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_vexspor_3.png"
  },
@@ -1616,13 +1653,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 1,
   "dosya": "2026-11-20_yaolsaydifutbol_1.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_yaolsaydifutbol_1.png"
  },
@@ -1643,13 +1681,14 @@
   "sayfa": "yaolsaydifutbol",
   "sira": 3,
   "dosya": "2026-11-20_yaolsaydifutbol_3.png",
-  "cikartma": "quiz",
+  "cikartma": "anket",
   "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
   "secenekler": [
    "Daha yüksek",
    "Daha düşük"
   ],
-  "dogru": "Daha düşük",
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
   "hesap": "@yaolsaydifutbol",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_yaolsaydifutbol_3.png"
  },
