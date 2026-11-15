@@ -77,6 +77,7 @@
 - @onikinnciadam · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_onikinciadam_2.png · ÇIKARTMA: YOK
 - @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_onikinciadam_3.png · ÇIKARTMA: ANKET · SORU: 7 numarayı kim daha iyi taşıdı? · ŞIKLAR: Dursun / Quaresma
 - @onikinnciadam · sıra 4 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_onikinciadam_4.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 5 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_onikinciadam_5.png · ÇIKARTMA: SORU KUTUSU · SORU: Gördüğün en güzel Beşiktaş golü hangisi?
 
 ## Çarşamba 18 Kasım (2026-11-18)
 
@@ -131,6 +132,7 @@
 - @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_3.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi oyun kurucuydu? · ŞIKLAR: Delgado / 
 - @onikinnciadam · sıra 4 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_4.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
 - @onikinnciadam · sıra 5 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_5.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 6 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_6.png · ÇIKARTMA: SORU KUTUSU · SORU: İbrahim Toraman denince aklına ne geliyor?
 
 ## Cumartesi 21 Kasım (2026-11-21)
 

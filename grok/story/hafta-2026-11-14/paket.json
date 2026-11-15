@@ -853,6 +853,18 @@
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_onikinciadam_4.png"
  },
  {
+  "gun": "2026-11-17",
+  "sayfa": "onikinciadam",
+  "sira": 5,
+  "dosya": "2026-11-17_onikinciadam_5.png",
+  "cikartma": "soru",
+  "soru": "Gördüğün en güzel Beşiktaş golü hangisi?",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-17/2026-11-17_onikinciadam_5.png"
+ },
+ {
   "gun": "2026-11-18",
   "sayfa": "sahabilim",
   "sira": 1,
@@ -1511,6 +1523,18 @@
   "dogru": null,
   "hesap": "@onikinnciadam",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_5.png"
+ },
+ {
+  "gun": "2026-11-20",
+  "sayfa": "onikinciadam",
+  "sira": 6,
+  "dosya": "2026-11-20_onikinciadam_6.png",
+  "cikartma": "soru",
+  "soru": "İbrahim Toraman denince aklına ne geliyor?",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-20/2026-11-20_onikinciadam_6.png"
  },
  {
   "gun": "2026-11-21",
