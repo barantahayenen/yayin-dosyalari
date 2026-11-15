@@ -95,6 +95,7 @@
 - @onikinnciadam · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_onikinciadam_2.png · ÇIKARTMA: YOK
 - @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_onikinciadam_3.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi forvetti? · ŞIKLAR: Kahveci̇ / Mansiz
 - @onikinnciadam · sıra 4 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_onikinciadam_4.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 5 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_onikinciadam_5.png · ÇIKARTMA: SORU KUTUSU · SORU: Beşiktaş'ta en çok özlediğin oyuncu kim?
 
 ## Perşembe 19 Kasım (2026-11-19)
 

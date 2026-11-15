@@ -1070,6 +1070,18 @@
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_onikinciadam_4.png"
  },
  {
+  "gun": "2026-11-18",
+  "sayfa": "onikinciadam",
+  "sira": 5,
+  "dosya": "2026-11-18_onikinciadam_5.png",
+  "cikartma": "soru",
+  "soru": "Beşiktaş'ta en çok özlediğin oyuncu kim?",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-18/2026-11-18_onikinciadam_5.png"
+ },
+ {
   "gun": "2026-11-19",
   "sayfa": "sahabilim",
   "sira": 1,
