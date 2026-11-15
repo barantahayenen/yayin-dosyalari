@@ -1514,6 +1514,140 @@
  },
  {
   "gun": "2026-11-21",
+  "sayfa": "sahabilim",
+  "sira": 1,
+  "dosya": "2026-11-21_sahabilim_1.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha savaşçı orta sahaydı?",
+  "secenekler": [
+   "Davids",
+   "Gattuso"
+  ],
+  "dogru": null,
+  "hesap": "@sahabilim",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_sahabilim_1.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "sahabilim",
+  "sira": 2,
+  "dosya": "2026-11-21_sahabilim_2.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha iyi stoperdi?",
+  "secenekler": [
+   "Desailly",
+   "Kompany"
+  ],
+  "dogru": null,
+  "hesap": "@sahabilim",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_sahabilim_2.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "sahabilim",
+  "sira": 3,
+  "dosya": "2026-11-21_sahabilim_3.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🔥"
+  ],
+  "dogru": null,
+  "hesap": "@sahabilim",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_sahabilim_3.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "vexspor",
+  "sira": 1,
+  "dosya": "2026-11-21_vexspor_1.png",
+  "cikartma": "anket",
+  "soru": "Liverpool'un en iyi stoperi hangisi?",
+  "secenekler": [
+   "Carragher",
+   "Hyypiä"
+  ],
+  "dogru": null,
+  "hesap": "@vexspor",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_vexspor_1.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "vexspor",
+  "sira": 2,
+  "dosya": "2026-11-21_vexspor_2.png",
+  "cikartma": "anket",
+  "soru": "En iyi hâli kimin daha iyiydi?",
+  "secenekler": [
+   "Mahrez",
+   "Sané"
+  ],
+  "dogru": null,
+  "hesap": "@vexspor",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_vexspor_2.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "vexspor",
+  "sira": 3,
+  "dosya": "2026-11-21_vexspor_3.png",
+  "cikartma": "anket",
+  "soru": "En iyi hâli kimin daha iyiydi?",
+  "secenekler": [
+   "Valdés",
+   "De Gea"
+  ],
+  "dogru": null,
+  "hesap": "@vexspor",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_vexspor_3.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "yaolsaydifutbol",
+  "sira": 1,
+  "dosya": "2026-11-21_yaolsaydifutbol_1.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha iyi orta sahaydı?",
+  "secenekler": [
+   "Altintop",
+   "Şahi̇n"
+  ],
+  "dogru": null,
+  "hesap": "@yaolsaydifutbol",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_yaolsaydifutbol_1.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "yaolsaydifutbol",
+  "sira": 2,
+  "dosya": "2026-11-21_yaolsaydifutbol_2.png",
+  "cikartma": "anket",
+  "soru": "En iyi hâli kimin daha iyiydi?",
+  "secenekler": [
+   "Evra",
+   "Cole"
+  ],
+  "dogru": null,
+  "hesap": "@yaolsaydifutbol",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_yaolsaydifutbol_2.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "yaolsaydifutbol",
+  "sira": 3,
+  "dosya": "2026-11-21_yaolsaydifutbol_3.png",
+  "cikartma": "anket",
+  "soru": "Premier Lig'in en iyi kalecisi hangisi?",
+  "secenekler": [
+   "Schmeichel",
+   "Seaman"
+  ],
+  "dogru": null,
+  "hesap": "@yaolsaydifutbol",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_yaolsaydifutbol_3.png"
+ },
+ {
+  "gun": "2026-11-21",
   "sayfa": "onikinciadam",
   "sira": 1,
   "dosya": "2026-11-21_onikinciadam_1.png",
@@ -1582,5 +1716,226 @@
   "dogru": null,
   "hesap": "@onikinnciadam",
   "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_onikinciadam_5.png"
+ },
+ {
+  "gun": "2026-11-21",
+  "sayfa": "onikinciadam",
+  "sira": 6,
+  "dosya": "2026-11-21_onikinciadam_6.png",
+  "cikartma": "soru",
+  "soru": "Konya'da skor kaç olur?",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-21/2026-11-21_onikinciadam_6.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "sahabilim",
+  "sira": 1,
+  "dosya": "2026-11-22_sahabilim_1.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha iyi forvetti?",
+  "secenekler": [
+   "Van Persie",
+   "Tevez"
+  ],
+  "dogru": null,
+  "hesap": "@sahabilim",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_sahabilim_1.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "sahabilim",
+  "sira": 2,
+  "dosya": "2026-11-22_sahabilim_2.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha iyi golcüydü?",
+  "secenekler": [
+   "Di Natale",
+   "Toni"
+  ],
+  "dogru": null,
+  "hesap": "@sahabilim",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_sahabilim_2.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "sahabilim",
+  "sira": 3,
+  "dosya": "2026-11-22_sahabilim_3.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🔥"
+  ],
+  "dogru": null,
+  "hesap": "@sahabilim",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_sahabilim_3.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "vexspor",
+  "sira": 1,
+  "dosya": "2026-11-22_vexspor_1.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha iyi sağ bekti?",
+  "secenekler": [
+   "Neville",
+   "Lahm"
+  ],
+  "dogru": null,
+  "hesap": "@vexspor",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_vexspor_1.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "vexspor",
+  "sira": 2,
+  "dosya": "2026-11-22_vexspor_2.png",
+  "cikartma": "anket",
+  "soru": "En iyi hâli kimin daha iyiydi?",
+  "secenekler": [
+   "Forlán",
+   "Milito"
+  ],
+  "dogru": null,
+  "hesap": "@vexspor",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_vexspor_2.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "vexspor",
+  "sira": 3,
+  "dosya": "2026-11-22_vexspor_3.png",
+  "cikartma": "anket",
+  "soru": "Ofansi̇f Bek rolü en çok kime yakışır?",
+  "secenekler": [
+   "Marcelo",
+   "Cafu",
+   "Roberto Carlos",
+   "Hakimi"
+  ],
+  "dogru": null,
+  "hesap": "@vexspor",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_vexspor_3.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "yaolsaydifutbol",
+  "sira": 1,
+  "dosya": "2026-11-22_yaolsaydifutbol_1.png",
+  "cikartma": "anket",
+  "soru": "Yenilmezler'in en iyi stoperi hangisi?",
+  "secenekler": [
+   "Touré",
+   "Campbell"
+  ],
+  "dogru": null,
+  "hesap": "@yaolsaydifutbol",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_yaolsaydifutbol_1.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "yaolsaydifutbol",
+  "sira": 2,
+  "dosya": "2026-11-22_yaolsaydifutbol_2.png",
+  "cikartma": "anket",
+  "soru": "Hangisi daha iyi golcüydü?",
+  "secenekler": [
+   "Yilmaz",
+   "Şentürk"
+  ],
+  "dogru": null,
+  "hesap": "@yaolsaydifutbol",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_yaolsaydifutbol_2.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "yaolsaydifutbol",
+  "sira": 3,
+  "dosya": "2026-11-22_yaolsaydifutbol_3.png",
+  "cikartma": "anket",
+  "soru": "En iyi hâli kimin daha iyiydi?",
+  "secenekler": [
+   "Topal",
+   "Mascherano"
+  ],
+  "dogru": null,
+  "hesap": "@yaolsaydifutbol",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_yaolsaydifutbol_3.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "onikinciadam",
+  "sira": 1,
+  "dosya": "2026-11-22_onikinciadam_1.png",
+  "cikartma": "anket",
+  "soru": "Bugün kim kazanır?",
+  "secenekler": [
+   "Beşiktaş",
+   "Berabere",
+   "Konyaspor"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_onikinciadam_1.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "onikinciadam",
+  "sira": 2,
+  "dosya": "2026-11-22_onikinciadam_2.png",
+  "cikartma": "anket",
+  "soru": "Alttaki oyuncunun değeri daha mı yüksek?",
+  "secenekler": [
+   "Daha yüksek",
+   "Daha düşük"
+  ],
+  "dogru": null,
+  "dogru_cevap_notu": "Daha düşük",
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_onikinciadam_2.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "onikinciadam",
+  "sira": 3,
+  "dosya": "2026-11-22_onikinciadam_3.png",
+  "cikartma": "yok",
+  "soru": "",
+  "secenekler": [],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_onikinciadam_3.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "onikinciadam",
+  "sira": 4,
+  "dosya": "2026-11-22_onikinciadam_4.png",
+  "cikartma": "anket",
+  "soru": "9 numarayı kim daha iyi taşıdı?",
+  "secenekler": [
+   "Aboubakar",
+   "Almeida"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_onikinciadam_4.png"
+ },
+ {
+  "gun": "2026-11-22",
+  "sayfa": "onikinciadam",
+  "sira": 5,
+  "dosya": "2026-11-22_onikinciadam_5.png",
+  "cikartma": "emoji",
+  "soru": "Bu maçı hatırlıyor musun?",
+  "secenekler": [
+   "🦅"
+  ],
+  "dogru": null,
+  "hesap": "@onikinnciadam",
+  "gorsel": "https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_onikinciadam_5.png"
  }
 ]
