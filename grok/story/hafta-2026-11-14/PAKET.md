@@ -1,4 +1,4 @@
-# Story paketi · 14–22 Kasım 2026 (tüm sayfalar)
+# Story paketi · 14–29 Kasım 2026 (tüm sayfalar)
 
 ## Grok için talimat
 - Her gün, o günün başlığı altındaki story'leri AYNI SAATTE (Baran'ın söylediği saat) paylaş. Başka günün story'sine dokunma.
@@ -169,3 +169,114 @@
 - @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_onikinciadam_3.png · ÇIKARTMA: YOK
 - @onikinnciadam · sıra 4 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_onikinciadam_4.png · ÇIKARTMA: ANKET · SORU: 9 numarayı kim daha iyi taşıdı? · ŞIKLAR: Aboubakar / Almeida
 - @onikinnciadam · sıra 5 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-22/2026-11-22_onikinciadam_5.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+
+## Pazartesi 23 Kasım (2026-11-23)
+
+- @sahabilim · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_sahabilim_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi stoperdi? · ŞIKLAR: Chiellini / Bonucci
+- @sahabilim · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_sahabilim_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi kaleci? · ŞIKLAR: Neuer / Ter Stegen
+- @sahabilim · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_sahabilim_3.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🔥
+- @vexspor · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_vexspor_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi orkestra şefiydi? · ŞIKLAR: Pirlo / Modrić
+- @vexspor · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_vexspor_2.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Robben / Ribéry
+- @vexspor · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_vexspor_3.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Falcao / Higuaín
+- @yaolsaydifutbol · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_yaolsaydifutbol_1.png · ÇIKARTMA: ANKET · SORU: Türkiye'nin en iyi stoperi hangisi? · ŞIKLAR: Demi̇ral / Söyüncü
+- @yaolsaydifutbol · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_yaolsaydifutbol_2.png · ÇIKARTMA: ANKET · SORU: Millî takımın en iyi golcüsü hangisi? · ŞIKLAR: Tosun / Yilmaz
+- @yaolsaydifutbol · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_yaolsaydifutbol_3.png · ÇIKARTMA: ANKET · SORU: Kaká City'de daha mı büyük olurdu? · ŞIKLAR: Daha büyük olurdu / Milan doğru seçimdi
+- @onikinnciadam · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_onikinciadam_1.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu galibiyete puanın? · EMOJİ: 🦅
+- @onikinnciadam · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_onikinciadam_2.png · ÇIKARTMA: SORU KUTUSU · SORU: Nihat denince aklına ne geliyor?
+- @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_onikinciadam_3.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 4 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_onikinciadam_4.png · ÇIKARTMA: ANKET · SORU: Alttaki oyuncunun değeri daha mı yüksek? · ŞIKLAR: Daha yüksek / Daha düşük
+- @onikinnciadam · sıra 5 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-23/2026-11-23_onikinciadam_5.png · ÇIKARTMA: YOK
+
+## Salı 24 Kasım (2026-11-24)
+
+- @sahabilim · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_sahabilim_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi stoperdi? · ŞIKLAR: Godín / Varane
+- @sahabilim · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_sahabilim_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha etkili hücumcuydu? · ŞIKLAR: Müller / Reus
+- @sahabilim · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_sahabilim_3.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🔥
+- @vexspor · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_vexspor_1.png · ÇIKARTMA: ANKET · SORU: Premier Lig'in en iyi 10 numarası hangisi? · ŞIKLAR: De Bruyne / Fernandes
+- @vexspor · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_vexspor_2.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Bale / Di María
+- @vexspor · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_vexspor_3.png · ÇIKARTMA: ANKET · SORU: Hedef Santrfor rolü en çok kime yakışır? · ŞIKLAR: Drogba / Ibrahimović / Lukaku / Giroud
+- @yaolsaydifutbol · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_yaolsaydifutbol_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi orta saha? · ŞIKLAR: Yokuşlu / Tufan
+- @yaolsaydifutbol · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_yaolsaydifutbol_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi sağ bekti? · ŞIKLAR: Gönül / Sarioğlu
+- @yaolsaydifutbol · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_yaolsaydifutbol_3.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Buffon / Casillas
+- @onikinnciadam · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_onikinciadam_1.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_onikinciadam_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi stoperdi? · ŞIKLAR: Toraman / Zan
+- @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-24/2026-11-24_onikinciadam_3.png · ÇIKARTMA: SORU KUTUSU · SORU: Derbide golü kim atar?
+
+## Çarşamba 25 Kasım (2026-11-25)
+
+- @sahabilim · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_sahabilim_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi ön liberoydu? · ŞIKLAR:  / 
+- @sahabilim · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_sahabilim_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha yetenekliydi? · ŞIKLAR: Insigne / Dybala
+- @sahabilim · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_sahabilim_3.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🔥
+- @vexspor · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_vexspor_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi pasördü? · ŞIKLAR: Verratti / 
+- @vexspor · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_vexspor_2.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Griezmann / 
+- @vexspor · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_vexspor_3.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Touré / 
+- @yaolsaydifutbol · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_yaolsaydifutbol_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi sol bek? · ŞIKLAR: Erki̇n / Kadioğlu
+- @yaolsaydifutbol · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_yaolsaydifutbol_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi oyun kurucuydu? · ŞIKLAR: Cazorla / Silva
+- @yaolsaydifutbol · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_yaolsaydifutbol_3.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Silva / Godín
+- @onikinnciadam · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_onikinciadam_1.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu geceyi hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_onikinciadam_2.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_onikinciadam_3.png · ÇIKARTMA: ANKET · SORU: Alttaki oyuncunun değeri daha mı yüksek? · ŞIKLAR: Daha yüksek / Daha düşük
+- @onikinnciadam · sıra 4 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-25/2026-11-25_onikinciadam_4.png · ÇIKARTMA: YOK
+
+## Perşembe 26 Kasım (2026-11-26)
+
+- @sahabilim · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_sahabilim_1.png · ÇIKARTMA: ANKET · SORU: Fransa'nın en iyi 9 numarası hangisi? · ŞIKLAR: Giroud / Benzema
+- @sahabilim · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_sahabilim_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi orta sahaydı? · ŞIKLAR: Hamšík / Nainggolan
+- @sahabilim · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_sahabilim_3.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🔥
+- @vexspor · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_vexspor_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi dripling ustasıydı? · ŞIKLAR:  / Hazard
+- @vexspor · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_vexspor_2.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Lahm / Alaba
+- @vexspor · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_vexspor_3.png · ÇIKARTMA: ANKET · SORU: İçe Kateden Kanat rolü en çok kime yakışır? · ŞIKLAR: Robben / Salah / Mahrez / Sané
+- @yaolsaydifutbol · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_yaolsaydifutbol_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi kaleci? · ŞIKLAR: Demi̇rel / Çakir
+- @yaolsaydifutbol · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_yaolsaydifutbol_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi pasördü? · ŞIKLAR: Kroos / Busquets
+- @yaolsaydifutbol · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_yaolsaydifutbol_3.png · ÇIKARTMA: ANKET · SORU: Neymar Real Madrid'de daha mı büyük olurdu? · ŞIKLAR: Daha büyük olurdu / Barça doğru seçimdi
+- @onikinnciadam · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_onikinciadam_1.png · ÇIKARTMA: ANKET · SORU: Bu akşam kim kazanır? · ŞIKLAR: Beşiktaş / Berabere / Hapoel
+- @onikinnciadam · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_onikinciadam_2.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu derbiyi hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_onikinciadam_3.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 4 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-26/2026-11-26_onikinciadam_4.png · ÇIKARTMA: ANKET · SORU: 11 numarayı kim daha iyi taşıdı? · ŞIKLAR: Amokachi / Nobre
+
+## Cuma 27 Kasım (2026-11-27)
+
+- @sahabilim · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_sahabilim_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi stoper? · ŞIKLAR:  / Koulibaly
+- @sahabilim · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_sahabilim_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi golcü? · ŞIKLAR: Lukaku / Džeko
+- @sahabilim · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_sahabilim_3.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🔥
+- @vexspor · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_vexspor_1.png · ÇIKARTMA: ANKET · SORU: Liverpool'un en iyi kanadı hangisi? · ŞIKLAR: Salah / Mané
+- @vexspor · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_vexspor_2.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Agüero / Firmino
+- @vexspor · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_vexspor_3.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Kroos / Modrić
+- @yaolsaydifutbol · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_yaolsaydifutbol_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi santrfor? · ŞIKLAR: Lukaku / Giroud
+- @yaolsaydifutbol · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_yaolsaydifutbol_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi bek? · ŞIKLAR: Cancelo / Robertson
+- @yaolsaydifutbol · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_yaolsaydifutbol_3.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Bale / Robben
+- @onikinnciadam · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_onikinciadam_1.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Derbi heyecanın kaç? · EMOJİ: 🦅
+- @onikinnciadam · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_onikinciadam_2.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_onikinciadam_3.png · ÇIKARTMA: ANKET · SORU: Alttaki oyuncunun değeri daha mı yüksek? · ŞIKLAR: Daha yüksek / Daha düşük
+- @onikinnciadam · sıra 4 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-27/2026-11-27_onikinciadam_4.png · ÇIKARTMA: YOK
+
+## Cumartesi 28 Kasım (2026-11-28)
+
+- @sahabilim · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_sahabilim_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi kaleci? · ŞIKLAR: Oblak / Courtois
+- @sahabilim · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_sahabilim_2.png · ÇIKARTMA: ANKET · SORU: Man City'nin en iyi beki hangisi? · ŞIKLAR: Cancelo / Walker
+- @sahabilim · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_sahabilim_3.png · ÇIKARTMA: ANKET · SORU: Barcelona'nın en iyi Brezilyalısı hangisi? · ŞIKLAR:  / 
+- @vexspor · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_vexspor_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi golcü? · ŞIKLAR: Lewandowski / Kane
+- @vexspor · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_vexspor_2.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Ibrahimović / Drogba
+- @vexspor · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_vexspor_3.png · ÇIKARTMA: ANKET · SORU: Süpürücü Kaleci̇ rolü en çok kime yakışır? · ŞIKLAR: Neuer / Ter Stegen / Alisson / Lloris
+- @yaolsaydifutbol · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_yaolsaydifutbol_1.png · ÇIKARTMA: ANKET · SORU: Bayern'in en iyi Fransız kanadı hangisi? · ŞIKLAR: Coman / Ribéry
+- @yaolsaydifutbol · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_yaolsaydifutbol_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi forvetti? · ŞIKLAR: Dybala / Higuaín
+- @yaolsaydifutbol · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_yaolsaydifutbol_3.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: De Gea / Casillas
+- @onikinnciadam · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_onikinciadam_1.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu derbiyi hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_onikinciadam_2.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_onikinciadam_3.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 4 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-28/2026-11-28_onikinciadam_4.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi sol bekti? · ŞIKLAR: Köybaşi / 
+
+## Pazar 29 Kasım (2026-11-29)
+
+- @sahabilim · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_sahabilim_1.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi sol bek? · ŞIKLAR: Robertson / Alba
+- @sahabilim · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_sahabilim_2.png · ÇIKARTMA: ANKET · SORU: Bayern'in en iyi kanadı hangisi? · ŞIKLAR: Coman / Sané
+- @sahabilim · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_sahabilim_3.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🔥
+- @vexspor · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_vexspor_1.png · ÇIKARTMA: ANKET · SORU: Uruguay'ın en iyi golcüsü hangisi? · ŞIKLAR: Suárez / Cavani
+- @vexspor · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_vexspor_2.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Piqué / Ramos
+- @vexspor · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_vexspor_3.png · ÇIKARTMA: ANKET · SORU: En iyi hâli kimin daha iyiydi? · ŞIKLAR: Rooney / Van Persie
+- @yaolsaydifutbol · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_yaolsaydifutbol_1.png · ÇIKARTMA: ANKET · SORU: Napoli'nin en iyi kaptanı hangisi? · ŞIKLAR: Hamšík / Insigne
+- @yaolsaydifutbol · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_yaolsaydifutbol_2.png · ÇIKARTMA: ANKET · SORU: Hangisi daha iyi stoper? · ŞIKLAR: Demi̇ral / Bonucci
+- @yaolsaydifutbol · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_yaolsaydifutbol_3.png · ÇIKARTMA: ANKET · SORU: Totti Real Madrid'de daha mı büyük olurdu? · ŞIKLAR: Daha büyük olurdu / Roma doğru seçimdi
+- @onikinnciadam · sıra 1 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_onikinciadam_1.png · ÇIKARTMA: SORU KUTUSU · SORU: Derbi kaç kaç biter?
+- @onikinnciadam · sıra 2 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_onikinciadam_2.png · ÇIKARTMA: EMOJİ KAYDIRICI · SORU: Bu maçı hatırlıyor musun? · EMOJİ: 🦅
+- @onikinnciadam · sıra 3 · GÖRSEL: https://raw.githubusercontent.com/barantahayenen/yayin-dosyalari/main/grok/story/hafta-2026-11-14/2026-11-29/2026-11-29_onikinciadam_3.png · ÇIKARTMA: ANKET · SORU: En unutulmaz derbi kahramanı kim? · ŞIKLAR: Guti / Mert Nobre / Quaresma / Aboubakar
