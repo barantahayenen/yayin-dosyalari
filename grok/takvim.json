@@ -95,6 +95,20 @@
    "link": null,
    "medya": null,
    "not": ""
+  },
+  {
+   "id": "sahabilim-017",
+   "hesap": "sahabilim",
+   "tur": "mac",
+   "baslik": "VİDEO 017 · CSKA Sofya–Trabzonspor",
+   "zaman_tsi": "2026-11-26 15:00",
+   "zaman_utc": "2026-11-26T12:00:00Z",
+   "durum": "planlandi",
+   "link": null,
+   "medya": null,
+   "not": "",
+   "mac_saati_tsi": "2026-11-26 23:00",
+   "mac_saati_utc": "2026-11-26T20:00:00Z"
   }
  ]
 }
