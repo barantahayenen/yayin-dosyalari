@@ -69,6 +69,20 @@
    "link": null,
    "medya": null,
    "not": ""
+  },
+  {
+   "id": "sahabilim-018",
+   "hesap": "sahabilim",
+   "tur": "mac",
+   "baslik": "VİDEO 018 · Beşiktaş–Hapoel Be'er Sheva (Batum)",
+   "zaman_tsi": "2026-11-26 09:00",
+   "zaman_utc": "2026-11-26T06:00:00Z",
+   "durum": "planlandi",
+   "link": null,
+   "medya": null,
+   "not": "",
+   "mac_saati_tsi": "2026-11-26 20:45",
+   "mac_saati_utc": "2026-11-26T17:45:00Z"
   }
  ]
 }
