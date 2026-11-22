@@ -29,6 +29,20 @@
    "not": "",
    "mac_saati_tsi": "2026-11-24 20:45",
    "mac_saati_utc": "2026-11-24T17:45:00Z"
+  },
+  {
+   "id": "sahabilim-gm-20261124",
+   "hesap": "sahabilim",
+   "tur": "gunun-maclari",
+   "baslik": "Günün Maçları #2 · 24 Kas (Şampiyonlar Ligi 6 maç)",
+   "zaman_tsi": "2026-11-24 13:00",
+   "zaman_utc": "2026-11-24T10:00:00Z",
+   "durum": "planlandi",
+   "link": null,
+   "medya": null,
+   "not": "",
+   "mac_saati_tsi": "2026-11-24 23:00",
+   "mac_saati_utc": "2026-11-24T20:00:00Z"
   }
  ]
 }
