@@ -57,6 +57,18 @@
    "not": "",
    "mac_saati_tsi": "2026-11-25 23:00",
    "mac_saati_utc": "2026-11-25T20:00:00Z"
+  },
+  {
+   "id": "sahabilim-gm-20261125",
+   "hesap": "sahabilim",
+   "tur": "gunun-maclari",
+   "baslik": "Günün Maçları #3 · 25 Kas (Şampiyonlar Ligi 8 maç)",
+   "zaman_tsi": "2026-11-25 13:00",
+   "zaman_utc": "2026-11-25T10:00:00Z",
+   "durum": "planlandi",
+   "link": null,
+   "medya": null,
+   "not": ""
   }
  ]
 }
