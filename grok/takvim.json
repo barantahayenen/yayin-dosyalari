@@ -83,6 +83,18 @@
    "not": "",
    "mac_saati_tsi": "2026-11-26 20:45",
    "mac_saati_utc": "2026-11-26T17:45:00Z"
+  },
+  {
+   "id": "sahabilim-gm-20261126",
+   "hesap": "sahabilim",
+   "tur": "gunun-maclari",
+   "baslik": "Günün Maçları #4 · 26 Kas (Avrupa Ligi / Konferans Ligi)",
+   "zaman_tsi": "2026-11-26 12:00",
+   "zaman_utc": "2026-11-26T09:00:00Z",
+   "durum": "planlandi",
+   "link": null,
+   "medya": null,
+   "not": ""
   }
  ]
 }

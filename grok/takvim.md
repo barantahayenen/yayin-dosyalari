@@ -10,3 +10,4 @@ Güncellendi: 2026-11-23 01:31 TSİ
 | 2026-11-25 09:00 | sahabilim | mac | VİDEO 016 · Şahtar–Fenerbahçe | planlandi |  |
 | 2026-11-25 13:00 | sahabilim | gunun-maclari | Günün Maçları #3 · 25 Kas (Şampiyonlar Ligi 8 maç) | planlandi |  |
 | 2026-11-26 09:00 | sahabilim | mac | VİDEO 018 · Beşiktaş–Hapoel Be'er Sheva (Batum) | planlandi |  |
+| 2026-11-26 12:00 | sahabilim | gunun-maclari | Günün Maçları #4 · 26 Kas (Avrupa Ligi / Konferans Ligi) | planlandi |  |
