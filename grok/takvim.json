@@ -1,0 +1,20 @@
+{
+ "aciklama": "Saha Bilim ve diğer sayfaların planlı Instagram paylaşımları. Grokbot okur. zaman_tsi = Türkiye saati; zaman_utc = ISO. durum: planlandi/paylasildi/iptal/ertelendi.",
+ "guncellendi": "2026-11-23 01:31 TSİ",
+ "paylasimlar": [
+  {
+   "id": "sahabilim-gm-20261123",
+   "hesap": "sahabilim",
+   "tur": "gunun-maclari",
+   "baslik": "Günün Maçları #1 · 23 Kas (Başakşehir–Çorum, Monza–Fiorentina, Brentford–Everton, Levante–Elche)",
+   "zaman_tsi": "2026-11-23 10:00",
+   "zaman_utc": "2026-11-23T07:00:00Z",
+   "durum": "planlandi",
+   "link": null,
+   "medya": null,
+   "not": "",
+   "mac_saati_tsi": "2026-11-23 20:00",
+   "mac_saati_utc": "2026-11-23T17:00:00Z"
+  }
+ ]
+}
