@@ -15,6 +15,20 @@
    "not": "",
    "mac_saati_tsi": "2026-11-23 20:00",
    "mac_saati_utc": "2026-11-23T17:00:00Z"
+  },
+  {
+   "id": "sahabilim-015",
+   "hesap": "sahabilim",
+   "tur": "mac",
+   "baslik": "VİDEO 015 · Galatasaray–Aston Villa",
+   "zaman_tsi": "2026-11-24 09:00",
+   "zaman_utc": "2026-11-24T06:00:00Z",
+   "durum": "planlandi",
+   "link": null,
+   "medya": null,
+   "not": "",
+   "mac_saati_tsi": "2026-11-24 20:45",
+   "mac_saati_utc": "2026-11-24T17:45:00Z"
   }
  ]
 }
