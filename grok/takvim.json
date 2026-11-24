@@ -1,6 +1,6 @@
 {
  "aciklama": "Saha Bilim ve diğer sayfaların planlı Instagram paylaşımları. Grokbot okur. zaman_tsi = Türkiye saati; zaman_utc = ISO. durum: planlandi/paylasildi/iptal/ertelendi.",
- "guncellendi": "2026-11-23 10:04 TSİ",
+ "guncellendi": "2026-11-24 09:05 TSİ",
  "paylasimlar": [
   {
    "id": "sahabilim-gm-20261123",
@@ -24,12 +24,13 @@
    "baslik": "VİDEO 015 · Galatasaray–Aston Villa",
    "zaman_tsi": "2026-11-24 09:00",
    "zaman_utc": "2026-11-24T06:00:00Z",
-   "durum": "planlandi",
-   "link": null,
-   "medya": null,
+   "durum": "paylasildi",
+   "link": "https://www.instagram.com/reel/DgHRQqJAKIW/",
+   "medya": "18024523220942038",
    "not": "",
    "mac_saati_tsi": "2026-11-24 20:45",
-   "mac_saati_utc": "2026-11-24T17:45:00Z"
+   "mac_saati_utc": "2026-11-24T17:45:00Z",
+   "paylasildi": "2026-11-24 09:05"
   },
   {
    "id": "sahabilim-gm-20261124",
