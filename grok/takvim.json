@@ -1,6 +1,6 @@
 {
  "aciklama": "Saha Bilim ve diğer sayfaların planlı Instagram paylaşımları. Grokbot okur. zaman_tsi = Türkiye saati; zaman_utc = ISO. durum: planlandi/paylasildi/iptal/ertelendi.",
- "guncellendi": "2026-11-24 09:05 TSİ",
+ "guncellendi": "2026-11-24 13:02 TSİ",
  "paylasimlar": [
   {
    "id": "sahabilim-gm-20261123",
@@ -39,12 +39,13 @@
    "baslik": "Günün Maçları #2 · 24 Kas (Şampiyonlar Ligi 6 maç)",
    "zaman_tsi": "2026-11-24 13:00",
    "zaman_utc": "2026-11-24T10:00:00Z",
-   "durum": "planlandi",
-   "link": null,
-   "medya": null,
+   "durum": "paylasildi",
+   "link": "https://www.instagram.com/reel/DgHsZXSgIjJ/",
+   "medya": "18026037908941611",
    "not": "",
    "mac_saati_tsi": "2026-11-24 23:00",
-   "mac_saati_utc": "2026-11-24T20:00:00Z"
+   "mac_saati_utc": "2026-11-24T20:00:00Z",
+   "paylasildi": "2026-11-24 13:02"
   },
   {
    "id": "sahabilim-016",
