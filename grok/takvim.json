@@ -1,6 +1,6 @@
 {
  "aciklama": "Saha Bilim ve diğer sayfaların planlı Instagram paylaşımları. Grokbot okur. zaman_tsi = Türkiye saati; zaman_utc = ISO. durum: planlandi/paylasildi/iptal/ertelendi.",
- "guncellendi": "2026-11-24 13:02 TSİ",
+ "guncellendi": "2026-11-25 09:02 TSİ",
  "paylasimlar": [
   {
    "id": "sahabilim-gm-20261123",
@@ -54,12 +54,13 @@
    "baslik": "VİDEO 016 · Şahtar–Fenerbahçe",
    "zaman_tsi": "2026-11-25 09:00",
    "zaman_utc": "2026-11-25T06:00:00Z",
-   "durum": "planlandi",
-   "link": null,
-   "medya": null,
+   "durum": "paylasildi",
+   "link": "https://www.instagram.com/reel/DgJ1rVvqTLT/",
+   "medya": "18083087984757949",
    "not": "",
    "mac_saati_tsi": "2026-11-25 23:00",
-   "mac_saati_utc": "2026-11-25T20:00:00Z"
+   "mac_saati_utc": "2026-11-25T20:00:00Z",
+   "paylasildi": "2026-11-25 09:02"
   },
   {
    "id": "sahabilim-gm-20261125",
