@@ -1,6 +1,6 @@
 # Paylaşım takvimi (Grokbot okur)
 
-Güncellendi: 2026-11-25 09:02 TSİ
+Güncellendi: 2026-11-25 10:49 TSİ
 
 | Zaman (TSİ) | Hesap | Tür | Başlık | Durum | Link |
 |---|---|---|---|---|---|
@@ -12,3 +12,4 @@ Güncellendi: 2026-11-25 09:02 TSİ
 | 2026-11-26 09:00 | sahabilim | mac | VİDEO 018 · Beşiktaş–Hapoel Be'er Sheva (Batum) | planlandi |  |
 | 2026-11-26 12:00 | sahabilim | gunun-maclari | Günün Maçları #4 · 26 Kas (Avrupa Ligi / Konferans Ligi) | planlandi |  |
 | 2026-11-26 15:00 | sahabilim | mac | VİDEO 017 · CSKA Sofya–Trabzonspor | planlandi |  |
+| 2026-11-27 10:00 | sahabilim | gunun-maclari | GÜNÜN MAÇLARI #5 · Süper Lig + 5 büyük lig (27 Kas Cuma) | planlandi |  |
