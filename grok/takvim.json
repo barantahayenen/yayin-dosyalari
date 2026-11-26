@@ -1,6 +1,6 @@
 {
  "aciklama": "Saha Bilim ve diğer sayfaların planlı Instagram paylaşımları. Grokbot okur. zaman_tsi = Türkiye saati; zaman_utc = ISO. durum: planlandi/paylasildi/iptal/ertelendi.",
- "guncellendi": "2026-11-25 13:02 TSİ",
+ "guncellendi": "2026-11-26 09:02 TSİ",
  "paylasimlar": [
   {
    "id": "sahabilim-gm-20261123",
@@ -82,10 +82,10 @@
    "baslik": "VİDEO 018 · Beşiktaş–Hapoel Be'er Sheva (Batum)",
    "zaman_tsi": "2026-11-26 09:00",
    "zaman_utc": "2026-11-26T06:00:00Z",
-   "durum": "planlandi",
+   "durum": "ertelendi",
    "link": null,
    "medya": null,
-   "not": "",
+   "not": "Meta API erişimi engellendi (26 Kas 09.00, kod 200/5258005); Baran'a elle paylaşım için gönderildi",
    "mac_saati_tsi": "2026-11-26 20:45",
    "mac_saati_utc": "2026-11-26T17:45:00Z"
   },
