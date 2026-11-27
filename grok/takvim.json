@@ -1,6 +1,6 @@
 {
  "aciklama": "Saha Bilim ve diğer sayfaların planlı Instagram paylaşımları. Grokbot okur. zaman_tsi = Türkiye saati; zaman_utc = ISO. durum: planlandi/paylasildi/iptal/ertelendi.",
- "guncellendi": "2026-11-27 10:39 TSİ",
+ "guncellendi": "2026-11-27 10:48 TSİ",
  "paylasimlar": [
   {
    "id": "sahabilim-gm-20261123",
@@ -139,6 +139,18 @@
    "medya": "18083792549722737",
    "not": "",
    "paylasildi": "2026-11-27 10:39"
+  },
+  {
+   "id": "sahabilim-gm-20261128",
+   "hesap": "sahabilim",
+   "tur": "gunun-maclari",
+   "baslik": "GÜNÜN MAÇLARI #6 · Süper Lig + 5 büyük lig (28 Kas Cumartesi)",
+   "zaman_tsi": "2026-11-28 10:00",
+   "zaman_utc": "2026-11-28T07:00:00Z",
+   "durum": "planlandi",
+   "link": null,
+   "medya": null,
+   "not": "paylaşım Baran onayını bekliyor"
   }
  ]
 }
