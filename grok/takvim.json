@@ -1,6 +1,6 @@
 {
  "aciklama": "Saha Bilim ve diğer sayfaların planlı Instagram paylaşımları. Grokbot okur. zaman_tsi = Türkiye saati; zaman_utc = ISO. durum: planlandi/paylasildi/iptal/ertelendi.",
- "guncellendi": "2026-11-28 09:07 TSİ",
+ "guncellendi": "2026-11-28 10:49 TSİ",
  "paylasimlar": [
   {
    "id": "sahabilim-gm-20261123",
@@ -153,6 +153,18 @@
    "medya": "17921581278540590",
    "not": "paylaşım Baran onayını bekliyor",
    "paylasildi": "2026-11-28 09:07"
+  },
+  {
+   "id": "sahabilim-019",
+   "hesap": "sahabilim",
+   "tur": "mac",
+   "baslik": "VİDEO 019 · Fenerbahçe–Erzurumspor",
+   "zaman_tsi": "2026-11-29 09:00",
+   "zaman_utc": "2026-11-29T06:00:00Z",
+   "durum": "planlandi",
+   "link": null,
+   "medya": null,
+   "not": "paylaşım Baran onayını bekliyor"
   }
  ]
 }

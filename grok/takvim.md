@@ -1,6 +1,6 @@
 # Paylaşım takvimi (Grokbot okur)
 
-Güncellendi: 2026-11-28 09:07 TSİ
+Güncellendi: 2026-11-28 10:49 TSİ
 
 | Zaman (TSİ) | Hesap | Tür | Başlık | Durum | Link |
 |---|---|---|---|---|---|
@@ -15,3 +15,4 @@ Güncellendi: 2026-11-28 09:07 TSİ
 | 2026-11-27 10:37 | sahabilim | veri-dosyasi | KARNE #2 · Haftanın isabetleri + nasıl çalışıyoruz | paylasildi | https://www.instagram.com/reel/DgPKV6Ko1qH/ |
 | 2026-11-27 13:02 | sahabilim | gunun-maclari | GÜNÜN MAÇLARI #5 · Süper Lig + 5 büyük lig (27 Kas Cuma) | paylasildi | https://www.instagram.com/reel/DgPa4pUus8I/ |
 | 2026-11-28 09:06 | sahabilim | gunun-maclari | GÜNÜN MAÇLARI #6 · Süper Lig + 5 büyük lig (28 Kas Cumartesi) | paylasildi | https://www.instagram.com/reel/DgRkpFxxB9C/ |
+| 2026-11-29 09:00 | sahabilim | mac | VİDEO 019 · Fenerbahçe–Erzurumspor | planlandi |  |
