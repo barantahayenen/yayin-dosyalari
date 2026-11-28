@@ -16,3 +16,4 @@ Güncellendi: 2026-11-28 10:49 TSİ
 | 2026-11-27 13:02 | sahabilim | gunun-maclari | GÜNÜN MAÇLARI #5 · Süper Lig + 5 büyük lig (27 Kas Cuma) | paylasildi | https://www.instagram.com/reel/DgPa4pUus8I/ |
 | 2026-11-28 09:06 | sahabilim | gunun-maclari | GÜNÜN MAÇLARI #6 · Süper Lig + 5 büyük lig (28 Kas Cumartesi) | paylasildi | https://www.instagram.com/reel/DgRkpFxxB9C/ |
 | 2026-11-29 09:00 | sahabilim | mac | VİDEO 019 · Fenerbahçe–Erzurumspor | planlandi |  |
+| 2026-11-29 12:00 | sahabilim | gunun-maclari | GÜNÜN MAÇLARI #7 · 29 Kas | planlandi |  |
